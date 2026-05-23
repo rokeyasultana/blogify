@@ -5,10 +5,10 @@ function App() {
 
   return (
     <>
-       <h1 className="text-5xl text-red-300 font-bold text-center mt-10">
-      Tailwind Working
-      <Home></Home>
+       <h1 className="text-5xl text-black font-bold text-center mt-10">
+      Blogify
     </h1>
+      <Home></Home>
     </>
   )
 }
